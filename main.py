@@ -104,6 +104,6 @@ async def 도움(ctx):
 
 
 
-bot.run("NzczMTQxNTM1NDYxODY3NTYw.X6E6Kg.-2lOE_5F1gSJ1vlYTmLPOUYFfmI")
+bot.run("")
 
 
